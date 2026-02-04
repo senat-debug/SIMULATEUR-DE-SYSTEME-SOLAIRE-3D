@@ -1,5 +1,3 @@
-# SIMULATEUR-DE-SYSTEME-SOLAIRE-3D
-ce projet est un simulateur de système 3D réaliser avec la sdl3 sans l'utilisation d'un moteur de jeu comme opengl ou vulkan
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge" alt="Build"/>
